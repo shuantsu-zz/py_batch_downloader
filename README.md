@@ -1,6 +1,6 @@
 ## Py Batch DownloaderPy Batch Downloader
 
-![py batch downloader](trumb.png "py batch downloader")
+![py batch downloader](thumb.png "py batch downloader")
 
 Simples baixador em lote escrito em python.
 
